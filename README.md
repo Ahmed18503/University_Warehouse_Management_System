@@ -95,5 +95,5 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 The database seeder creates a default administrator user with the following credentials. You can change these in `database/seeders/UserSeeder.php`.
 
--   **Email:** `admin@example.com`
--   **Password:** `password`
+-   **Email:** `reach@stevenyanumba.com`
+-   **Password:** `1234567890`
