@@ -10,12 +10,6 @@ This is a comprehensive Inventory Management System built with the Laravel frame
 -   **Product Management:** Full CRUD functionality for products, including categories, units of measure, and supplier information.
 -   **Warehouse Audits:** A streamlined module for conducting and recording physical stock audits against system quantities.
 -   **Inventory Transfers:** Manage the process of moving stock between different warehouses.
--   **Financial Reporting:** Generate essential PDF reports with Arabic language support, including:
-    -   Invoices
-    -   Purchase Orders
-    -   Quotations
-    -   Profit & Loss Statements
-    -   Account Summaries
 -   **Request Management:** Handle and track requests for product deletions and conversions of obsolete stock.
 
 ## Technology Stack
